@@ -1,0 +1,31 @@
+.h1{
+    text-align: center;
+}
+
+.Nevigation_Pane{
+    background-color: yellow;
+    padding: 14px 16px;
+}
+
+.topnav{
+    background-color: burlywood;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.active{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.topnav-right{
+    float: right;
+}
